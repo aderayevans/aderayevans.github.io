@@ -1,2 +1,2 @@
 # aderayevans.github.io
-My CV page
+My Resume page
