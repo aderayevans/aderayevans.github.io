@@ -1,3 +1,3 @@
-[Resume](Quang's Resume.html)
+[Resume](resume.html)
 
 [Blogs](blogs)
